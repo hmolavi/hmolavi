@@ -27,7 +27,7 @@
 <!--Intro start-->
 - 🔭 Currently i'm working with **Python, C++, JavaScript and React**
 - 🌱 I’m currently studying **Computer Engineering @ University of Waterloo.**
-- ☁️ I have keen interest in machine learnign. So, I'm learning **Tensor Flow**
+- ☁️ I have keen interest in machine learning. So, I'm learning **Tensor Flow**
 - 📝 I'm regularly active on [LeetCode](https://leetcode.com/_hossein/)
 - 💬 Ask me about **Algorithms and Data Structures**
 - 📫 Feel free to reach me out via **hmoalvi@uwaterloo.ca**
