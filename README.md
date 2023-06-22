@@ -30,8 +30,9 @@
 - ☁️ I have keen interest in machine learning. So, I'm learning **Tensor Flow**.
 - 📝 Ask me about **Algorithms and Data Structures**.
 - 📫 Feel free to reach me out via **hmoalvi@uwaterloo.ca**.
-- 🏠 Or visit my website at [hmolavi/contact](https://hmolavi.com/contact/) to get in touch. 
+- 🏠 Checkout my website at [hmolavi.com](https://hmolavi.com/). 
 - 💪🏼 Current Goal: Learning more algorithms --> more [LeetCode](https://leetcode.com/_hossein/).
+
 
 <!-- Languages -->
 <div id="user-content-toc">
@@ -43,6 +44,7 @@
   <img src="https://skillicons.dev/icons?i=c,cpp,python,html,css,javascript,typescript,java&perline=14" />
 </p>
 
+
 <!-- Technologies --> 
 <div id="user-content-toc">
   <ul align="center">
@@ -53,6 +55,7 @@
   <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,react,linux&perline=14" />
 </p>
 
+
 <!-- Connect with me -->
 <div id="user-content-toc">
   <ul align="center">
@@ -60,9 +63,24 @@
   </ul>
 </div>
 <p align="center">
-<a href="https://www.linkedin.com/in/hmolavi/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="linkedin" height="50" width="50" /></a>
-<a href="https://discordapp.com/users/hmolavi" target="blank"><img align="center" src="https://user-images.githubusercontent.com/88904952/234982627-019fd336-6248-453c-9b05-97c13fd1d207.png" alt="discord" height="50" width="50" /></a>
+  <a  href="https://linkedin.com/in/hmolavi" target="_blank">
+    <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="example"/>
+  </a>
+  <a  href="https://t.me/hmolavi1" target="_blank">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4.svg?style=for-the-badge&logo=telegram&logoColor=white" alt="example"/>
+  </a>
+  <a href="mailto:hmolavi@uwaterloo.ca?subject=Feedback%20From%20Github&body=Hello," target="_blank">
+    <img src="https://img.shields.io/badge/Outlook-0078D4.svg?style=for-the-badge&logo=microsoftoutlook&logoColor=white" alt="example"/>
+  </a>
+  <a href="https://leetcode.com/_hossein/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=black" alt="example"/>
+  </a>
 </p>
+
+
+
+<!-- space -->
+<p>&nbsp;</p>
 
 
 <!-- profile visit count -->
@@ -71,6 +89,7 @@
 [![](https://visitcount.itsvg.in/api?id=1010nishant&icon=3&color=6)]()
   
 </div>
+
 
 <!-- horizontal divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
