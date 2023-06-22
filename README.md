@@ -36,7 +36,7 @@
 <!-- Languages -->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Languages That I Know👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Languages That I Know 👨🏻‍💻</h2></summary>
   </ul>
 </div>
 <p align="center">
@@ -46,7 +46,7 @@
 <!-- Technologies --> 
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Technologies I Worked With👨🏻‍💻</h2></summary>
+    <summary><h2 style="display: inline-block">Technologies I Worked With 🖧</h2></summary>
   </ul>
 </div>
 <p align="center">
@@ -56,7 +56,7 @@
 <!-- Connect with me -->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">Connect With Me🤝</h2></summary>
+    <summary><h2 style="display: inline-block">Connect With Me 🤝</h2></summary>
   </ul>
 </div>
 <p align="center">
