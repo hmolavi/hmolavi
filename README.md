@@ -25,9 +25,9 @@
 
 
 <!-- intro -->
-- 🔭 Currently i'm working with **C++, JavaScript and React**.
+- 🔭 Currently i'm working with **Python, Django and TypeScript**.
 - 🌱 I’m currently studying **Computer Engineering @ University of Waterloo**.
-- ☁️ I have keen interest in machine learning. So, I'm learning **Tensor Flow**.
+- ☁️ I have keen interest in databases. So, I'm learning **MySQL**.
 - 📝 Ask me about **Algorithms and Data Structures**.
 - 📫 Feel free to reach me out via **hmoalvi@uwaterloo.ca**.
 - 🏠 Checkout my website at [hmolavi.com](https://hmolavi.com/). 
