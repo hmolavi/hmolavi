@@ -25,7 +25,7 @@
 
 
 <!-- intro -->
-- 🔭 Currently i'm working with **Python, Django and TypeScript**.
+- 🔭 Currently i'm working with **C and C++**.
 - 🌱 I’m currently studying **Computer Engineering @ University of Waterloo**.
 - ☁️ I have keen interest in databases. So, I'm learning **MySQL**.
 - 📝 Ask me about **Algorithms and Data Structures**.
