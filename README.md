@@ -52,7 +52,7 @@
   </ul>
 </div>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,react,swiftui,linux&perline=14" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,react,linux&perline=14" />
 </p>
 
 
