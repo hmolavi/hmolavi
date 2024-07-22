@@ -27,7 +27,7 @@
 <!-- intro -->
 - 🔭 Currently i'm working with **C and C++**.
 - 🌱 I’m currently studying **Computer Engineering @ University of Waterloo**.
-- ☁️ I have keen interest in databases. So, I'm learning **MySQL**.
+- ☁️ I have keen interest in OS. So, I'm learning **Real-Time-Operating-Systems**.
 - 📝 Ask me about **Algorithms and Data Structures**.
 - 📫 Feel free to reach me out via **hmoalvi@uwaterloo.ca**.
 - 🏠 Checkout my website at [hmolavi.com](https://hmolavi.com/). 
