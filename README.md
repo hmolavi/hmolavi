@@ -31,7 +31,7 @@
 - 📝 Ask me about **Algorithms and Data Structures**.
 - 📫 Feel free to reach me out via **hmoalvi@uwaterloo.ca**.
 - 🏠 Checkout my website at [hmolavi.com](https://hmolavi.com/). 
-- 💪🏼 Current Goal: Learning more algorithms --> more [LeetCode](https://leetcode.com/_hossein/).
+- 💪🏼 Current Goal: Learning more algorithms --> more [LeetCode](https://leetcode.com/hossein_mol/).
 
 
 <!-- Languages -->
